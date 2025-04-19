@@ -68,13 +68,7 @@ This project showcases an interactive Excel dashboard built using the SuperStore
 
 ---
 
-## 📸 Preview Gallery
 
-| ![Screenshot 2](./Screenshot%202.png) | ![Screenshot 3](./Screenshot%203.png) |
-|--------------------------------------|--------------------------------------|
-| Slicers & filters                    | Regional sales insights              |
-
----
 
 ## 📬 Contact
 
